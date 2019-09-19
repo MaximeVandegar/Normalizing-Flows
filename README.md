@@ -25,11 +25,6 @@
 - *Brian L Trippe, Richard E Turner*
 - `2018-02-14``
 
-##### [Robust Synthesis of Adversarial Visual Examples Using a Deep Image Prior]
-- Robust Synthesis of Adversarial Visual Examples Using a Deep Image Prior [[pdf]](https://arxiv.org/pdf/1907.01996.pdf)
-- *Thomas Gittings, Steve Schneider, John Collomosse*
-- `2019-07-03
-
 ##### [Unconstrained Monotonic Neural Networks]
 - Unconstrained Monotonic Neural Networks [[pdf]](https://arxiv.org/pdf/1908.05164.pdf)
 - *Antoine Wehenkel, Gilles Louppe*
