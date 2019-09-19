@@ -20,8 +20,18 @@
 - *Danilo Jimenez Rezende, Shakir Mohamed*
 - `2015-05-21`
 
+##### [Conditional Density Estimation with Bayesian Normalising Flows]
+- Conditional Density Estimation with Bayesian Normalising Flows [[pdf]](https://arxiv.org/pdf/1802.04908.pdf)
+- *Brian L Trippe, Richard E Turner*
+- `2018-02-14``
+
+##### [Robust Synthesis of Adversarial Visual Examples Using a Deep Image Prior]
+- Robust Synthesis of Adversarial Visual Examples Using a Deep Image Prior [[pdf]](https://arxiv.org/pdf/1907.01996.pdf)
+- *Thomas Gittings, Steve Schneider, John Collomosse*
+- `2019-07-03
+
 ##### [Unconstrained Monotonic Neural Networks]
-- Unconstrained Monotonic Neural Networks [[pdf]](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) [[Summary]](https://github.com/MaximeVandegar/GANs/blob/master/Summaries/Generative_Adversarial_Nets.pdf)
+- Unconstrained Monotonic Neural Networks [[pdf]](https://arxiv.org/pdf/1908.05164.pdf)
 - *Antoine Wehenkel, Gilles Louppe*
 - `2019-08-14
 
@@ -29,6 +39,7 @@
 - Normalizing Flows: Introduction and Ideas [[pdf]](https://arxiv.org/pdf/1908.09257.pdf)
 - *Ivan Kobyzev, Simon Prince, Marcus A. Brubaker*
 - `2019-08-25``
+
 
 
 
