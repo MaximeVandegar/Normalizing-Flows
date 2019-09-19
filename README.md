@@ -4,8 +4,6 @@
 
 ## Ressources
 
-### Papers:
-
 ##### [Sylvester Normalizing Flow For Variational Inference]
  - https://www.youtube.com/watch?v=VeYyUcIDVHI
  
@@ -14,6 +12,8 @@
 
 ##### [INFO8004: FFJORD: Free-Form Continuous Dynamics For Scalable Reversible Generative Models (Joeri Hermans)]
 - https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lec8-joeri.pdf
+
+### Papers:
 
 ##### [Variational Inference with Normalizing Flows]
 - Variational Inference with Normalizing Flows [[pdf]](https://arxiv.org/pdf/1505.05770.pdf)
