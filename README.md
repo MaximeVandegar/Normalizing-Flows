@@ -26,7 +26,7 @@
 - `2018-02-14``
 
 ##### [Unconstrained Monotonic Neural Networks]
-- Unconstrained Monotonic Neural Networks [[pdf]](https://arxiv.org/pdf/1908.05164.pdf)
+- Unconstrained Monotonic Neural Networks [[pdf]](https://arxiv.org/pdf/1908.05164.pdf)[[Summary]](https://github.com/MaximeVandegar/Normalizing-Flows/blob/master/Summaries/UMNN.md)
 - *Antoine Wehenkel, Gilles Louppe*
 - `2019-08-14
 
