@@ -21,7 +21,7 @@
 - `2015-05-21`
 
 ##### [Conditional Density Estimation with Bayesian Normalising Flows]
-- Conditional Density Estimation with Bayesian Normalising Flows [[pdf]](https://arxiv.org/pdf/1802.04908.pdf)
+- Conditional Density Estimation with Bayesian Normalising Flows [[pdf]](https://arxiv.org/pdf/1802.04908.pdf)[[Summary]](https://github.com/MaximeVandegar/Normalizing-Flows/blob/master/Summaries/CDE_with_Flows.pdf)
 - *Brian L Trippe, Richard E Turner*
 - `2018-02-14``
 
