@@ -35,6 +35,11 @@
 - *Ivan Kobyzev, Simon Prince, Marcus A. Brubaker*
 - `2019-08-25``
 
+##### [Normalizing Flows for Probabilistic Modeling and Inference]
+- Normalizing Flows for Probabilistic Modeling and Inference [[pdf]](https://arxiv.org/pdf/1912.02762.pdf)
+- *George Papamakarios, Eric Nalisnick, Danilo Jimenez Rezende, Shakir Mohamed, Balaji Lakshminarayanan*
+- `2019-12-05``
+
 
 
 
