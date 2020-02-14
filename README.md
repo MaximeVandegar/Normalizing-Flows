@@ -15,11 +15,6 @@
 
 ### Papers:
 
-##### [Normalizing Flows on Tori and Spheres]
-- Normalizing Flows on Tori and Spheres [[pdf]](https://arxiv.org/pdf/2002.02428.pdf)
-- *Danilo Jimenez Rezende, George Papamakarios, Sébastien Racanière, Michael S. Albergo, Gurtej Kanwar, Phiala E. Shanahan, Kyle Cranmer*
-- `2020-02-06`
-
 ##### [Variational Inference with Normalizing Flows]
 - Variational Inference with Normalizing Flows [[pdf]](https://arxiv.org/pdf/1505.05770.pdf)
 - *Danilo Jimenez Rezende, Shakir Mohamed*
@@ -44,6 +39,11 @@
 - Normalizing Flows for Probabilistic Modeling and Inference [[pdf]](https://arxiv.org/pdf/1912.02762.pdf)
 - *George Papamakarios, Eric Nalisnick, Danilo Jimenez Rezende, Shakir Mohamed, Balaji Lakshminarayanan*
 - `2019-12-05``
+
+##### [Normalizing Flows on Tori and Spheres]
+- Normalizing Flows on Tori and Spheres [[pdf]](https://arxiv.org/pdf/2002.02428.pdf)
+- *Danilo Jimenez Rezende, George Papamakarios, Sébastien Racanière, Michael S. Albergo, Gurtej Kanwar, Phiala E. Shanahan, Kyle Cranmer*
+- `2020-02-06`
 
 
 
