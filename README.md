@@ -2,7 +2,7 @@
 
 ***
 
-## Ressources
+## Resources
 
 ##### [Sylvester Normalizing Flow For Variational Inference]
  - https://www.youtube.com/watch?v=VeYyUcIDVHI
@@ -24,6 +24,12 @@
 - Conditional Density Estimation with Bayesian Normalising Flows [[pdf]](https://arxiv.org/pdf/1802.04908.pdf)[[Summary]](https://github.com/MaximeVandegar/Normalizing-Flows/blob/master/Summaries/CDE_with_Flows.pdf)
 - *Brian L Trippe, Richard E Turner*
 - `2018-02-14``
+
+##### [A RAD Approach to Deep Mixture Models]
+- A RAD Approach to Deep Mixture Models [[pdf]](https://arxiv.org/pdf/1903.07714.pdf)
+- *Laurent Dinh, Jascha Sohl-Dickstein, Razvan Pascanu, Hugo Larochelle*
+- `2019-03-18`
+
 
 ##### [Unconstrained Monotonic Neural Networks]
 - Unconstrained Monotonic Neural Networks [[pdf]](https://arxiv.org/pdf/1908.05164.pdf)[[Summary]](https://github.com/MaximeVandegar/Normalizing-Flows/blob/master/Summaries/UMNN.md)
