@@ -23,7 +23,7 @@
 ##### [Conditional Density Estimation with Bayesian Normalising Flows]
 - Conditional Density Estimation with Bayesian Normalising Flows [[pdf]](https://arxiv.org/pdf/1802.04908.pdf)[[Summary]](https://github.com/MaximeVandegar/Normalizing-Flows/blob/master/Summaries/CDE_with_Flows.pdf)
 - *Brian L Trippe, Richard E Turner*
-- `2018-02-14``
+- `2018-02-14`
 
 ##### [A RAD Approach to Deep Mixture Models]
 - A RAD Approach to Deep Mixture Models [[pdf]](https://arxiv.org/pdf/1903.07714.pdf)
