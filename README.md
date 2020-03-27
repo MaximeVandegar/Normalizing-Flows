@@ -34,17 +34,17 @@
 ##### [Unconstrained Monotonic Neural Networks]
 - Unconstrained Monotonic Neural Networks [[pdf]](https://arxiv.org/pdf/1908.05164.pdf)[[Summary]](https://github.com/MaximeVandegar/Normalizing-Flows/blob/master/Summaries/UMNN.md)
 - *Antoine Wehenkel, Gilles Louppe*
-- `2019-08-14
+- `2019-08-14`
 
 ##### [Normalizing Flows: Introduction and Ideas]
 - Normalizing Flows: Introduction and Ideas [[pdf]](https://arxiv.org/pdf/1908.09257.pdf)
 - *Ivan Kobyzev, Simon Prince, Marcus A. Brubaker*
-- `2019-08-25``
+- `2019-08-25`
 
 ##### [Normalizing Flows for Probabilistic Modeling and Inference]
 - Normalizing Flows for Probabilistic Modeling and Inference [[pdf]](https://arxiv.org/pdf/1912.02762.pdf)
 - *George Papamakarios, Eric Nalisnick, Danilo Jimenez Rezende, Shakir Mohamed, Balaji Lakshminarayanan*
-- `2019-12-05``
+- `2019-12-05`
 
 ##### [Normalizing Flows on Tori and Spheres]
 - Normalizing Flows on Tori and Spheres [[pdf]](https://arxiv.org/pdf/2002.02428.pdf)
