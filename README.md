@@ -51,6 +51,11 @@
 - *Danilo Jimenez Rezende, George Papamakarios, Sébastien Racanière, Michael S. Albergo, Gurtej Kanwar, Phiala E. Shanahan, Kyle Cranmer*
 - `2020-02-06`
 
+##### [Stochastic Normalizing Flows]
+- Stochastic Normalizing Flows [[pdf]](https://arxiv.org/pdf/2002.09547.pdf)
+- *Liam Hodgkinson, Chris van der Heide, Fred Roosta, Michael W. Mahoney*
+- `2020-02-21`
+
 
 
 
