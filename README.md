@@ -20,6 +20,12 @@
 - *Danilo Jimenez Rezende, Shakir Mohamed*
 - `2015-05-21`
 
+
+##### [Masked Autoregressive Flow for Density Estimation]
+- Masked Autoregressive Flow for Density Estimation [[pdf]](https://arxiv.org/pdf/1705.07057.pdf)
+- *George Papamakarios, Theo Pavlakou, Iain Murray*
+- `2017-05-19`
+
 ##### [Conditional Density Estimation with Bayesian Normalising Flows]
 - Conditional Density Estimation with Bayesian Normalising Flows [[pdf]](https://arxiv.org/pdf/1802.04908.pdf)[[Summary]](https://github.com/MaximeVandegar/Normalizing-Flows/blob/master/Summaries/CDE_with_Flows.pdf)
 - *Brian L Trippe, Richard E Turner*
