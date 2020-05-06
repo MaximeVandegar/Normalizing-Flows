@@ -20,6 +20,10 @@
 - *Danilo Jimenez Rezende, Shakir Mohamed*
 - `2015-05-21`
 
+##### [Density estimation using Real NVP]
+- Density estimation using Real NVP [[pdf]](https://arxiv.org/pdf/1605.08803.pdf)
+- *Laurent Dinh, Jascha Sohl-Dickstein, Samy Bengio*
+- `2017-02-27`
 
 ##### [Masked Autoregressive Flow for Density Estimation]
 - Masked Autoregressive Flow for Density Estimation [[pdf]](https://arxiv.org/pdf/1705.07057.pdf)
