@@ -69,7 +69,7 @@
 #### Normalizing Flows in Scientific Applications
 
 ##### [Density Deconvolution with Normalizing Flows]
-- Density Deconvolution with Normalizing Flows [[pdf]](https://arxiv.org/pdf/2006.09396.pdf)
+- Density Deconvolution with Normalizing Flows [[pdf]](https://arxiv.org/pdf/2006.09396.pdf)[[Summary]](https://github.com/MaximeVandegar/Normalizing-Flows/blob/master/Summaries/DensityDeconvolutionWithNormalizingFlows.md)
 - *Tim Dockhorn, James A. Ritchie, Yaoliang Yu, Iain Murray*
 - `2020-06-16`
 
