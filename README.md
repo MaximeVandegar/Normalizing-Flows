@@ -66,6 +66,10 @@
 - *Liam Hodgkinson, Chris van der Heide, Fred Roosta, Michael W. Mahoney*
 - `2020-02-21`
 
+#### Normalizing Flows in Scientific Applications
 
-
+##### [Density Deconvolution with Normalizing Flows]
+- Density Deconvolution with Normalizing Flows [[pdf]](https://arxiv.org/pdf/2006.09396.pdf)
+- *Tim Dockhorn, James A. Ritchie, Yaoliang Yu, Iain Murray*
+- `2020-06-16`
 
