@@ -66,6 +66,16 @@
 - *Liam Hodgkinson, Chris van der Heide, Fred Roosta, Michael W. Mahoney*
 - `2020-02-21`
 
+##### [You say Normalizing Flows I see Bayesian Networks]
+- You say Normalizing Flows I see Bayesian Networks [[pdf]](https://arxiv.org/pdf/2006.00866.pdf)
+- *Antoine Wehenkel, Gilles Louppe*
+- `2020-06-01`
+
+##### [Graphical Normalizing Flows]
+- Graphical Normalizing Flows [[pdf]](https://arxiv.org/pdf/2006.02548.pdf)
+- *Antoine Wehenkel, Gilles Louppe*
+- `2020-06-03`
+
 #### Normalizing Flows in Scientific Applications
 
 ##### [Density Deconvolution with Normalizing Flows]
