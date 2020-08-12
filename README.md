@@ -76,6 +76,11 @@
 - *Antoine Wehenkel, Gilles Louppe*
 - `2020-06-03`
 
+##### [Flow Models for Arbitrary Conditional Likelihoods]
+- Flow Models for Arbitrary Conditional Likelihoods [[pdf]](https://arxiv.org/pdf/1909.06319.pdf)
+- *Yang Li, Shoaib Akbar, Junier B. Oliva*
+- `2020-06-08`
+
 #### Normalizing Flows in Scientific Applications
 
 ##### [Density Deconvolution with Normalizing Flows]
