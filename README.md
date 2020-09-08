@@ -40,6 +40,11 @@
 - *Laurent Dinh, Jascha Sohl-Dickstein, Razvan Pascanu, Hugo Larochelle*
 - `2019-03-18`
 
+##### [Residual Flows for Invertible Generative Modeling]
+- Residual Flows for Invertible Generative Modeling [[pdf]](https://arxiv.org/pdf/1906.02735.pdf)
+- *Ricky T. Q. Chen, Jens Behrmann, David Duvenaud, Jörn-Henrik Jacobsen*
+- `2019-06-06`
+
 
 ##### [Unconstrained Monotonic Neural Networks]
 - Unconstrained Monotonic Neural Networks [[pdf]](https://arxiv.org/pdf/1908.05164.pdf)[[Summary]](https://github.com/MaximeVandegar/Normalizing-Flows/blob/master/Summaries/UMNN.md)
